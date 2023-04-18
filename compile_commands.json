@@ -1,0 +1,51 @@
+[
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\test\\mingw\\x86_64\\release\\memorize.c.obj", "memorize.c"],
+  "file": "memorize.c"
+},
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\card\\mingw\\x86_64\\release\\card.c.obj", "card.c"],
+  "file": "card.c"
+},
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\libgraphics\\mingw\\x86_64\\release\\libgraphics\\exceptio.c.obj", "libgraphics\\exceptio.c"],
+  "file": "libgraphics\\exceptio.c"
+},
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\libgraphics\\mingw\\x86_64\\release\\libgraphics\\genlib.c.obj", "libgraphics\\genlib.c"],
+  "file": "libgraphics\\genlib.c"
+},
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\libgraphics\\mingw\\x86_64\\release\\libgraphics\\graphics.c.obj", "libgraphics\\graphics.c"],
+  "file": "libgraphics\\graphics.c"
+},
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\libgraphics\\mingw\\x86_64\\release\\libgraphics\\linkedlist.c.obj", "libgraphics\\linkedlist.c"],
+  "file": "libgraphics\\linkedlist.c"
+},
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\libgraphics\\mingw\\x86_64\\release\\libgraphics\\random.c.obj", "libgraphics\\random.c"],
+  "file": "libgraphics\\random.c"
+},
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\libgraphics\\mingw\\x86_64\\release\\libgraphics\\simpio.c.obj", "libgraphics\\simpio.c"],
+  "file": "libgraphics\\simpio.c"
+},
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\libgraphics\\mingw\\x86_64\\release\\libgraphics\\strlib.c.obj", "libgraphics\\strlib.c"],
+  "file": "libgraphics\\strlib.c"
+},
+{
+  "directory": "E:\\zju\\23SPRING\\cClass\\play\\2",
+  "arguments": ["C:\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe", "-c", "-m64", "-fvisibility=hidden", "-O3", "-IsimpleGUI", "-Ilibgraphics", "-DNDEBUG", "-o", "build\\.objs\\simpleGUI\\mingw\\x86_64\\release\\simpleGUI\\imgui.c.obj", "simpleGUI\\imgui.c"],
+  "file": "simpleGUI\\imgui.c"
+}]
